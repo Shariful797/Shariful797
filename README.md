@@ -1,4 +1,5 @@
-<p align="right">  <img src="https://komarev.com/ghpvc/?username=Shariful797&color=green" alt="HTML5"/> </p>
+<p align="right">  <img src="https://komarev.com/ghpvc/?username=Shariful797&color=green" alt="HTML5"/></p>
+
 ### 🅷🅸 🆃🅷🅴🆁🅴 👋
 
 <h1 align="center">𝔸𝕤𝕤𝕒𝕝𝕒𝕞𝕦 𝔸𝕝𝕒𝕚𝕜𝕦𝕞!</h1>
