@@ -1,4 +1,9 @@
-<p align="right">  <img src="https://komarev.com/ghpvc/?username=Shariful797&color=green" alt="HTML5"/></p>
+<p>  <a href="#" target="_blank"> <img align="left" src="https://komarev.com/ghpvc/?username=Shariful797&color=green" alt="view count"/>
+<img align="right" src="https://github.com/Shariful797/Shariful797/blob/main/Icons/timer.svg" alt="time"/>
+</a>
+</p>
+
+
 
 ### 🅷🅸 🆃🅷🅴🆁🅴 👋
 
@@ -8,6 +13,10 @@
 
 𝙿𝚛𝚘𝚏𝚎𝚜𝚜𝚒𝚘𝚗𝚊𝚕𝚕𝚢, 𝙸 𝚝𝚊𝚔𝚎 𝚐𝚛𝚎𝚊𝚝 𝚙𝚛𝚒𝚍𝚎 𝚒𝚗 𝚋𝚎𝚒𝚗𝚐 𝚊 𝚍𝚎𝚍𝚒𝚌𝚊𝚝𝚎𝚍 𝚊𝚗𝚍 𝚍𝚒𝚕𝚒𝚐𝚎𝚗𝚝 𝚠𝚘𝚛𝚔𝚎𝚛, 𝚌𝚘𝚗𝚜𝚒𝚜𝚝𝚎𝚗𝚝𝚕𝚢 𝚜𝚝𝚛𝚒𝚟𝚒𝚗𝚐 𝚝𝚘 𝚎𝚡𝚌𝚎𝚕 𝚒𝚗 𝚖𝚢 𝚛𝚎𝚜𝚙𝚘𝚗𝚜𝚒𝚋𝚒𝚕𝚒𝚝𝚒𝚎𝚜. 𝙸 𝚊𝚖 𝚌𝚘𝚖𝚖𝚒𝚝𝚝𝚎𝚍 𝚝𝚘 𝚋𝚘𝚝𝚑 𝚖𝚢 𝚌𝚞𝚛𝚛𝚎𝚗𝚝 𝚙𝚘𝚜𝚒𝚝𝚒𝚘𝚗 𝚊𝚗𝚍 𝚖𝚢 𝚓𝚘𝚞𝚛𝚗𝚎𝚢 𝚝𝚘𝚠𝚊𝚛𝚍𝚜 𝚋𝚎𝚌𝚘𝚖𝚒𝚗𝚐 𝚊 𝚙𝚛𝚘𝚏𝚒𝚌𝚒𝚎𝚗𝚝 𝙵𝚛𝚘𝚗𝚝-𝙴𝚗𝚍 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛. 𝙼𝚢 𝚠𝚘𝚛𝚔 𝚎𝚝𝚑𝚒𝚌 𝚊𝚗𝚍 𝚍𝚎𝚝𝚎𝚛𝚖𝚒𝚗𝚊𝚝𝚒𝚘𝚗 𝚊𝚛𝚎 𝚌𝚎𝚗𝚝𝚛𝚊𝚕 𝚝𝚘 𝚖𝚢 𝚙𝚛𝚘𝚏𝚎𝚜𝚜𝚒𝚘𝚗𝚊𝚕 𝚒𝚍𝚎𝚗𝚝𝚒𝚝𝚢, 𝚎𝚗𝚊𝚋𝚕𝚒𝚗𝚐 𝚖𝚎 𝚝𝚘 𝚎𝚏𝚏𝚎𝚌𝚝𝚒𝚟𝚎𝚕𝚢 𝚌𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚗𝚐 𝚝𝚘 𝚝𝚑𝚎 𝚜𝚞𝚌𝚌𝚎𝚜𝚜 𝚘𝚏 𝚖𝚢 𝚘𝚛𝚐𝚊𝚗𝚒𝚣𝚊𝚝𝚒𝚘𝚗 𝚊𝚗𝚍 𝚖𝚢 𝚙𝚎𝚛𝚜𝚘𝚗𝚊𝚕 𝚐𝚛𝚘𝚠𝚝𝚑 𝚒𝚗 𝚝𝚑𝚎 𝚏𝚒𝚎𝚕𝚍 𝚘𝚏 𝚠𝚎𝚋 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.</p>
 <br>
+
+
+<p  align="center">  <a href="#" target="_blank"> <img src="https://github.com/Shariful797/Shariful797/blob/main/Icons/Animated%20Pkg.svg" alt="Known Language by Me" /></a>
+</p>
 
 ## 🎀  𝐼’𝓂 𝒸𝓊𝓇𝓇𝑒𝓃𝓉𝓁𝓎 𝓁𝑒𝒶𝓇𝓃𝒾𝓃𝑔 ...🎀
 <p>
@@ -124,6 +133,8 @@ writing format should be the same folder .svg or jpg or else...
 </picture>
 </p>
 
+<p  align="center">  <a href="#" target="_blank"> <img src="https://github.com/Shariful797/Shariful797/blob/main/Icons/Text%20Animation1.svg" alt="HTML5" /></a>
+</p>
 -->
 
  <br>
@@ -144,3 +155,4 @@ writing format should be the same folder .svg or jpg or else...
 [linkedin-url]: https://linkedin.com/in/Shariful797
 [twitter-shield]: https://img.shields.io/badge/-Twitter-black.svg?style=flat-square&logo=x&color=1DA1F2&logoColor=black
 [twitter-url]: https://twitter.com/shariful797
+
