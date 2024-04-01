@@ -88,6 +88,42 @@ Next language
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="48" height="48"/> </a> 
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="48" height="48"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="48" height="48"/> </a> 
+
+
+
+https://github.com/prateek-chaubey/prateek-chaubey/blob/main/README.md?plain=1
+
+
+for auto Night Mode Daymode change
+
+writing format should be the same folder .svg or jpg or else...
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="th30ne.svg">
+  <source media="(prefers-color-scheme: light)" srcset="darkmode.svg">
+  <img  src="./blank.svg">
+</picture>
+</p>
+
+
+<p align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" align="center" srcset="pkc.svg">
+<source media="(prefers-color-scheme: light)" srcset="blank.svg">
+<img  src="./blank.svg">
+</picture>
+</p>
+
+
+<p align="right">
+<picture>
+<source align="right" media="(prefers-color-scheme: dark)" srcset="timer.svg">
+<source media="(prefers-color-scheme: light)" srcset="blank.svg">
+<img  src="./blank.svg">
+</picture>
+</p>
+
 -->
 
  <br>
